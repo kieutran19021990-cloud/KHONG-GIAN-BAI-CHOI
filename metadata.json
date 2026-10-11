@@ -1,0 +1,8 @@
+{
+  "name": "BÀI CHÒI AI – HỒN QUẢNG",
+  "description": "Trò chơi giáo dục giúp học sinh THCS tìm hiểu di sản văn hóa Bài chòi Quảng Nam thông qua lời hô nghệ nhân và đoán quân bài.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
